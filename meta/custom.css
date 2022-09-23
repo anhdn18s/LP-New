@@ -1,0 +1,21 @@
+#cookieAcceptBar {
+  display: block;
+  line-height: 30px;
+  background: #333;
+  color: #fff;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  text-align: center;
+}
+
+.cookieAcceptBar a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#cookieAcceptBarConfirm {
+  background: #2387c0;
+  border: none;
+}
