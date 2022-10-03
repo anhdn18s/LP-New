@@ -19,3 +19,8 @@
   background: #2387c0;
   border: none;
 }
+
+.post_img01 .img-fluid{
+  width: 100%;
+  margin: 30px 0 0 0;
+}
